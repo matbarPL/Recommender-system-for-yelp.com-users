@@ -18,8 +18,9 @@ Best tab shows level of similarity between user and item.
 All recomendations are shown to user based on his or her location (if the user hasn't changed the original one).
 ![alt text](https://github.com/matbarPL/Recommender-system-for-yelp.com-users/blob/master/screens/on_map.png)
 
-Application is fully responsive. Due to that smart choice can be accesed from every device. 
-![alt text](https://github.com/matbarPL/Recommender-system-for-yelp.com-users/blob/master/screens/iphone8.jpg)
+Application is fully responsive. Due to that smart choice can be accesed from every device. <p align="center">
+  <img src = "https://github.com/matbarPL/Recommender-system-for-yelp.com-users/blob/master/screens/iphone8.jpg"/>
+</p>
 
 ## How to test?
 user_id: YqMpcRUA0OMw1WNLDGoj-A, 
