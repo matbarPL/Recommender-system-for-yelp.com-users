@@ -1,2 +1,2 @@
-# Recommender-system-for-yelp.com-users
+# Recommender system for yelp users
 Recommender systems plays an important role in many web services. Thanks to them Internet platforms can generate maximum profit and their clients be as satisfied as possible. In my thesis I focus on comparison of algorithms and then I implement the best one in form of a web application. Neural networks are used as well due to their increasing popularity in recommendation tasks.
